@@ -6,4 +6,4 @@ and w service package that contains all the functions.
 WEB PROJECT:
 WEB project contains servelet that will handle the client request and forword it to jsp pages.
 
-You have to create an entreprie application project to regroupe all both the ejb and web project then deploy it into the server (i'm using wildfly).
+You have to create an entreprise application project to regroupe all both the ejb and web project then deploy it into the server (i'm using wildfly).
